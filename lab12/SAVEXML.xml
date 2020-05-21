@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="14.0.1" class="java.beans.XMLDecoder">
+ <object class="javafx.scene.control.Button">
+  <void property="alignment">
+   <object class="java.lang.Enum" id="Pos0" method="valueOf">
+    <class>javafx.geometry.Pos</class>
+    <string>CENTER</string>
+   </object>
+  </void>
+  <void property="layoutX">
+   <double>185.0</double>
+  </void>
+  <void property="layoutY">
+   <double>146.0</double>
+  </void>
+ </object>
+ <object class="javafx.scene.control.Button">
+  <void property="alignment">
+   <object idref="Pos0"/>
+  </void>
+  <void property="layoutX">
+   <double>171.0</double>
+  </void>
+  <void property="layoutY">
+   <double>228.0</double>
+  </void>
+ </object>
+ <object class="javafx.scene.control.Button">
+  <void property="alignment">
+   <object idref="Pos0"/>
+  </void>
+  <void property="layoutX">
+   <double>288.0</double>
+  </void>
+  <void property="layoutY">
+   <double>180.0</double>
+  </void>
+ </object>
+ <object class="javafx.scene.control.Button">
+  <void property="alignment">
+   <object idref="Pos0"/>
+  </void>
+  <void property="layoutX">
+   <double>137.0</double>
+  </void>
+  <void property="layoutY">
+   <double>183.0</double>
+  </void>
+ </object>
+ <object class="javafx.scene.control.Button">
+  <void property="alignment">
+   <object idref="Pos0"/>
+  </void>
+  <void property="layoutX">
+   <double>27.0</double>
+  </void>
+  <void property="layoutY">
+   <double>203.0</double>
+  </void>
+ </object>
+ <object class="javafx.scene.control.Button">
+  <void property="alignment">
+   <object idref="Pos0"/>
+  </void>
+  <void property="layoutX">
+   <double>79.0</double>
+  </void>
+  <void property="layoutY">
+   <double>123.0</double>
+  </void>
+ </object>
+ <object class="javafx.scene.control.Button">
+  <void property="alignment">
+   <object idref="Pos0"/>
+  </void>
+  <void property="layoutX">
+   <double>196.0</double>
+  </void>
+  <void property="layoutY">
+   <double>217.0</double>
+  </void>
+ </object>
+ <object class="javafx.scene.control.Button">
+  <void property="alignment">
+   <object idref="Pos0"/>
+  </void>
+  <void property="layoutX">
+   <double>203.0</double>
+  </void>
+  <void property="layoutY">
+   <double>96.0</double>
+  </void>
+ </object>
+ <object class="javafx.scene.control.Button">
+  <void property="alignment">
+   <object idref="Pos0"/>
+  </void>
+  <void property="layoutX">
+   <double>132.0</double>
+  </void>
+  <void property="layoutY">
+   <double>117.0</double>
+  </void>
+ </object>
+ <object class="javafx.scene.control.Button">
+  <void property="alignment">
+   <object idref="Pos0"/>
+  </void>
+  <void property="layoutX">
+   <double>246.0</double>
+  </void>
+  <void property="layoutY">
+   <double>178.0</double>
+  </void>
+ </object>
+ <object class="javafx.scene.control.Button">
+  <void property="alignment">
+   <object idref="Pos0"/>
+  </void>
+  <void property="layoutX">
+   <double>164.0</double>
+  </void>
+ </object>
+ <object class="javafx.scene.control.TextField">
+  <void property="layoutX">
+   <double>302.0</double>
+  </void>
+  <void property="layoutY">
+   <double>100.0</double>
+  </void>
+  <void property="text">
+   <string>sssds</string>
+  </void>
+ </object>
+ <object class="javafx.scene.control.TextField">
+  <void property="layoutX">
+   <double>342.0</double>
+  </void>
+  <void property="layoutY">
+   <double>235.0</double>
+  </void>
+ </object>
+ <object class="javafx.scene.control.TextField">
+  <void property="layoutX">
+   <double>288.0</double>
+  </void>
+  <void property="layoutY">
+   <double>282.0</double>
+  </void>
+  <void property="text">
+   <string>sds</string>
+  </void>
+ </object>
+ <object class="javafx.scene.control.TextField">
+  <void property="layoutX">
+   <double>354.0</double>
+  </void>
+  <void property="layoutY">
+   <double>126.0</double>
+  </void>
+ </object>
+ <object class="org.example.MyButton">
+  <void property="alignment">
+   <object idref="Pos0"/>
+  </void>
+  <void property="layoutX">
+   <double>317.0</double>
+  </void>
+  <void property="layoutY">
+   <double>202.0</double>
+  </void>
+ </object>
+ <object class="org.example.MyButton">
+  <void property="alignment">
+   <object idref="Pos0"/>
+  </void>
+  <void property="layoutX">
+   <double>164.0</double>
+  </void>
+  <void property="layoutY">
+   <double>307.0</double>
+  </void>
+ </object>
+ <object class="org.example.MyButton">
+  <void property="alignment">
+   <object idref="Pos0"/>
+  </void>
+  <void property="layoutX">
+   <double>498.0</double>
+  </void>
+  <void property="layoutY">
+   <double>418.0</double>
+  </void>
+ </object>
+ <object class="org.example.MyButton">
+  <void property="alignment">
+   <object idref="Pos0"/>
+  </void>
+  <void property="layoutX">
+   <double>515.0</double>
+  </void>
+  <void property="layoutY">
+   <double>370.0</double>
+  </void>
+ </object>
+</java>
